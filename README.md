@@ -1,6 +1,6 @@
 # Global Infection Statistics Dashboard
 
-[**View the Interactive Dashboard on Tableau Public**](https://public.tableau.com/views/CovidDashboard_17645050732070/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[**View the Interactive Dashboard on Tableau Public**](https://public.tableau.com/views/CovidDashboard_17645050732070/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ![Global Infection Dashboard](Dashboard.png)
 
